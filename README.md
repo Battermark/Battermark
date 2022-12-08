@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Battermark
+- I'm new here and I really want to learn more about programming!
+- That's all for now!
